@@ -15,6 +15,7 @@
 - [Tools](#Tools)
 	- [Converters](#Converters)
 	- [Editors](#Editors)
+	- [Linters](#Linters)
     - [Miscellaneous](#Miscellaneous)
 - [Services](#Services)
 - [Resources](#Resources)
@@ -51,6 +52,11 @@
 - [MarkRight](https://github.com/dvcrn/markright) - A minimalistic github flavored markdown editor.
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem:
 - [PileMd](https://pilemd.com/) - Markdown Note App.
+
+### Linters
+
+- [Markdownlint](https://github.comigorshubovych/markdownlint-cli) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [MDL](https://github.com/mivok/markdownlint) - A Rubygem style checker and linting tool for Markdown/CommonMark files.
 
 ### Miscellaneous
 
