@@ -60,6 +60,8 @@
 - [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 - [Markable.in](https://markable.in/) - A Remarkable Markdown Editor.
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like.
+- [Markdownlint in Node.js](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [MDL Markdown Lint](https://github.com/mivok/markdownlint) - A Rubygem style checker and linting tool for Markdown/CommonMark files.
 
 ## Services
 
