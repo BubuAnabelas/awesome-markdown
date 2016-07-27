@@ -55,8 +55,8 @@
 
 ### Linters
 
-- [Markdownlint](https://github.comigorshubovych/markdownlint-cli) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [MDL](https://github.com/mivok/markdownlint) - A Rubygem style checker and linting tool for Markdown/CommonMark files.
+- [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [MDL](https://github.com/mivok/markdownlint) - A tool to check markdown files and flag style issues.
 
 ### Miscellaneous
 
@@ -92,9 +92,9 @@
 
 > Useful links and tutorials.
 
+- [Interactive Markdown Tutorial](http://www.markdowntutorial.com/)
 - [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem:
-- [Interactive Markdown Tutorial](http://www.markdowntutorial.com/)
 
 ## License
 
