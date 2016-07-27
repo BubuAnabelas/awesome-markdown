@@ -55,6 +55,8 @@
 
 ### Linters
 
+> Flag and standarize your Markdown documents.
+
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [MDL](https://github.com/mivok/markdownlint) - A tool to check markdown files and flag style issues.
 
