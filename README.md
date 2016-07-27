@@ -15,6 +15,7 @@
 - [Tools](#Tools)
 	- [Converters](#Converters)
 	- [Editors](#Editors)
+	- [Linters](#Linters)
     - [Miscellaneous](#Miscellaneous)
 - [Services](#Services)
 - [Resources](#Resources)
@@ -52,6 +53,11 @@
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem:
 - [PileMd](https://pilemd.com/) - Markdown Note App.
 
+### Linters
+
+- [Markdownlint](https://github.comigorshubovych/markdownlint-cli) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [MDL](https://github.com/mivok/markdownlint) - A Rubygem style checker and linting tool for Markdown/CommonMark files.
+
 ### Miscellaneous
 
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
@@ -60,8 +66,6 @@
 - [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 - [Markable.in](https://markable.in/) - A Remarkable Markdown Editor.
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like.
-- [Markdownlint in Node.js](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [MDL Markdown Lint](https://github.com/mivok/markdownlint) - A Rubygem style checker and linting tool for Markdown/CommonMark files.
 
 ## Services
 
