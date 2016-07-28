@@ -29,6 +29,7 @@
 
 - [Ghost](https://blog.ghost.org/markdown/) - A publishing platform for professional bloggers.
 - [Grav](https://getgrav.org/) - A Modern Flat-File CMS.
+- [Hugo](https://gohugo.io/) - A Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - A blogging platform designed to help you think.
 
