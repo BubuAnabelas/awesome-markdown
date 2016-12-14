@@ -52,6 +52,7 @@
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC.
 - [MarkRight](https://github.com/dvcrn/markright) - A minimalistic github flavored markdown editor.
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem:
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool. :gem:
 - [PileMd](https://pilemd.com/) - Markdown Note App.
 
 ### Linters
@@ -67,13 +68,16 @@
 
 - [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs.
 - [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+- [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative markdown notes on all platforms.
 - [Markable.in](https://markable.in/) - A Remarkable Markdown Editor.
+- [Laverna](https://laverna.cc/) -Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem:
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like.
 
 ## Services
 
 > Different services which take advantage of Markdown.
 
+- [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [GitBook](https://www.gitbook.com/) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub markdown.
 - [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem:
