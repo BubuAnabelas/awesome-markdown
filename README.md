@@ -33,6 +33,7 @@
 - [Hugo](https://gohugo.io/) - A Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - A blogging platform designed to help you think.
+- [Cmd Markdown](https://zybuluo.com/) - A publishing platform for Markdown files.
 
 ## Tools
 
