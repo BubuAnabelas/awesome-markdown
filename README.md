@@ -17,22 +17,22 @@
 	- [Converters](#Converters)
 	- [Editors](#Editors)
 	- [Linters](#Linters)
-    - [Miscellaneous](#Miscellaneous)
+	- [Miscellaneous](#Miscellaneous)
 - [Services](#Services)
 - [Resources](#Resources)
 	- [Documentation](#Documentation)
-    - [Tutorials](#Tutorials)
+	- [Tutorials](#Tutorials)
 
 ***
 
 ## CMS / Blogs
 > CMS or Blogs which support Markdown by default.
 
-- [Ghost](https://blog.ghost.org/markdown/) - A publishing platform for professional bloggers.
-- [Grav](https://getgrav.org/) - A Modern Flat-File CMS.
-- [Hugo](https://gohugo.io/) - A Fast & Modern Static Website Engine.
+- [Ghost](https://blog.ghost.org/markdown/) - Publishing platform for professional bloggers.
+- [Grav](https://getgrav.org/) - Modern Flat-File CMS.
+- [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
-- [Svbtle](https://svbtle.com/) - A blogging platform designed to help you think.
+- [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 
 ## Tools
 
@@ -41,27 +41,27 @@
 > Convert Markdown to other formats and vice versa.
 
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
-- [to-markdown](https://github.com/domchristie/to-markdown) - An HTML to Markdown converter written in JavaScript.
+- [to-markdown](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown To PDF](http://www.markdowntopdf.com/)
-- [Pandoc](http://pandoc.org/) - A universal document converter.
+- [Pandoc](http://pandoc.org/) - Universal document converter.
 
 ### Editors
 
 > Edit and save your Markdown documents.
 
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC.
-- [MarkRight](https://github.com/dvcrn/markright) - A minimalistic github flavored markdown editor.
+- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor.
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem:
-- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool. :gem:
+- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem:
 - [PileMd](https://pilemd.com/) - Markdown Note App.
 
 ### Linters
 
 > Flag and standarize your Markdown documents.
 
-- [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [MDL](https://github.com/mivok/markdownlint) - A tool to check markdown files and flag style issues.
+- [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [MDL](https://github.com/mivok/markdownlint) - Tool to check Markdown files and flag style issues.
 
 ### Miscellaneous
 
@@ -69,9 +69,9 @@
 
 - [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs.
 - [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-- [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative markdown notes on all platforms.
-- [Markable.in](https://markable.in/) - A Remarkable Markdown Editor.
-- [Laverna](https://laverna.cc/) -Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem:
+- [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms.
+- [Markable.in](https://markable.in/) - Remarkable Markdown Editor.
+- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem:
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like.
 
 ## Services
@@ -80,9 +80,9 @@
 
 - [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [GitBook](https://www.gitbook.com/) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
-- [GitPrint](https://gitprint.com/) - Easily print GitHub markdown.
+- [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown.
 - [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem:
-- [Stacktile](https://stacktile.io/) - Turn a markdown document into an interactive tutorial.
+- [Stacktile](https://stacktile.io/) - Turn a Markdown document into an interactive tutorial.
 
 ## Resources
 
@@ -90,10 +90,10 @@
 
 > Documentation and useful information about Markdown.
 
-- [CommonMark](http://commonmark.org/) - A strongly defined, highly compatible specification of Markdown.
+- [CommonMark](http://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem:
-- [The text/markdown Media Type (RFC7763)](https://tools.ietf.org/html/rfc7763) - This document registers the text/markdown media type for use with Markdown, a family of plain-text formatting syntaxes.
+- [The text/markdown Media Type (RFC7763)](https://tools.ietf.org/html/rfc7763) - This document registers the `text/markdown` media type for use with Markdown, a family of plain-text formatting syntaxes.
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Markdown)
 
 ### Tutorials
