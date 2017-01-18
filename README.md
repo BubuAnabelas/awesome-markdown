@@ -5,13 +5,13 @@
 
 > A curated list of delightful Markdown stuff.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+Markdown is a markup language created by John Gruber in collaboration with Aaron Swartz. It was designed to be easily converted to HTML and has been extended into different types of implementations.
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 :gem: means **really _awesome/useful_**.
 
-## Table of Contents
+## Contents
 - [CMS / Blogs](#CMS-Blogs)
 - [Tools](#Tools)
 	- [Converters](#Converters)
@@ -43,7 +43,7 @@
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [to-markdown](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
-- [Markdown To PDF](http://www.markdowntopdf.com/)
+- [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF.
 - [Pandoc](http://pandoc.org/) - Universal document converter.
 
 ### Editors
@@ -51,9 +51,10 @@
 > Edit and save your Markdown documents.
 
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC.
+- [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor.
-- [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem:
-- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem:
+- [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_
+- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_
 - [PileMd](https://pilemd.com/) - Markdown Note App.
 
 ### Linters
@@ -71,7 +72,7 @@
 - [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms.
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor.
-- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem:
+- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like.
 
 ## Services
@@ -81,7 +82,7 @@
 - [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [GitBook](https://www.gitbook.com/) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown.
-- [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem:
+- [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem: Like Pastebin but with Markdown
 - [Stacktile](https://stacktile.io/) - Turn a Markdown document into an interactive tutorial.
 
 ## Resources
@@ -91,8 +92,10 @@
 > Documentation and useful information about Markdown.
 
 - [CommonMark](http://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
+- [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
-- [Original Specifications](https://daringfireball.net/projects/markdown/) :gem:
+- [Stack Overflow Markdown Documentation](https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
+- [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Highest voted Markdown questions on Stack Overflow.
 - [The text/markdown Media Type (RFC7763)](https://tools.ietf.org/html/rfc7763) - This document registers the `text/markdown` media type for use with Markdown, a family of plain-text formatting syntaxes.
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Markdown)
 
@@ -101,8 +104,8 @@
 > Useful links and tutorials.
 
 - [Interactive Markdown Tutorial](http://www.markdowntutorial.com/)
-- [Github's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem:
+- [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: _Where to look when you don't remember the syntax!_
 
 ## License
 
