@@ -9,11 +9,13 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-:gem: means **really _awesome/useful_**.
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> means that **it's _webapp/webservice_**.
-<img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> means that **runs on _macOS_**.
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> means that **runs on _Linux_**.
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24"> means that **runs on _Windows_**.
+:gem: means **really _awesome/useful_**.<br />
+<img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> means that **it's _webapp/webservice_**.<br />
+<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png" title="Android OS" width="24"> means that **runs on _Android_**.<br />
+<img src="https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png" title="iOS Logo" width="24"> means that **runs on _iOS_**.<br />
+<img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> means that **runs on _macOS_**.<br />
+<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> means that **runs on _Linux_**.<br />
+<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24"> means that **runs on _Windows_**.<br />
 
 ## Contents
 - [CMS / Blogs](#CMS-Blogs)
