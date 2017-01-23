@@ -18,16 +18,16 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24"> means that **runs on _Windows_**.<br />
 
 ## Contents
-- [CMS / Blogs](#CMS-Blogs)
-- [Tools](#Tools)
-	- [Converters](#Converters)
-	- [Editors](#Editors)
-	- [Linters](#Linters)
-	- [Miscellaneous](#Miscellaneous)
-- [Services](#Services)
-- [Resources](#Resources)
-	- [Documentation](#Documentation)
-	- [Tutorials](#Tutorials)
+- [CMS / Blogs](#cms--blogs)
+- [Tools](#tools)
+	- [Converters](#converters)
+	- [Editors](#editors)
+	- [Linters](#linters)
+	- [Miscellaneous](#miscellaneous)
+- [Services](#services)
+- [Resources](#resources)
+	- [Documentation](#documentation)
+	- [Tutorials](#tutorials)
 
 -
 
