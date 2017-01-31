@@ -21,6 +21,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [CMS / Blogs](#cms--blogs)
 - [Libraries](#libraries)
 	- [C](#c)
+	- [Elixir](#elixir)
 	- [Java](#java)
 	- [JavaScript](#javascript)
 	- [Perl](#perl)
@@ -47,6 +48,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
+- [Nikola](https://getnikola.com/) - Static-site blog generator with significant features.
 
 ## Libraries
 > Libraries for rendering Markdown documents.
@@ -56,6 +58,12 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
 - [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
+
+### Elixir
+
+- [earmark](https://hex.pm/packages/earmark) - Pure Elixir markdown implementation.
+- [cmark](https://hex.pm/packages/cmark) - C Markdown implementation in Elixir for speed, follows Commonmark.
+- [phoenix_markdown](https://hex.pm/packages/phoenix_markdown) - Markdown Template system for the Phoenix web server.
 
 ### Java
 
