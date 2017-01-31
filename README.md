@@ -19,6 +19,14 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ## Contents
 - [CMS / Blogs](#cms--blogs)
+- [Libraries](#libraries)
+	- [C](#c)
+	- [Java](#java)
+	- [JavaScript](#javascript)
+	- [Perl](#perl)
+	- [PHP](#php)
+	- [Python](#python)
+	- [Ruby](#ruby)
 - [Tools](#tools)
 	- [Converters](#converters)
 	- [Editors](#editors)
@@ -39,6 +47,48 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
+
+## Libraries
+> Libraries for rendering Markdown documents.
+
+### C
+
+- [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
+- [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
+- [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
+
+### Java
+
+- [commonmark-java](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format.
+- [flexmark-java](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST.
+- [pegdown](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions.
+
+### JavaScript
+
+- [marked](https://github.com/chjj/marked) - A full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+- [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
+- [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
+
+### Perl
+
+- [Markdown.pl](http://daringfireball.net/projects/downloads/Markdown_1.0.1.zip) :gem: John Gruber's original Markdown library.
+
+### PHP
+
+- [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
+- [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
+
+### Python
+
+- [markdown2](https://github.com/trentm/python-markdown2) - A fast and complete implementation of Markdown in Python.
+- [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
+- [Python-Markdown](https://github.com/waylan/Python-Markdown) - A Python implementation of John Gruber's Markdown.
+
+### Ruby
+
+- [kramdown](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
+- [Redcarpet](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
 
 ## Tools
 
