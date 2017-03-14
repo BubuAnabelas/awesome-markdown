@@ -148,6 +148,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 > Documentation and useful information about Markdown.
 
 - [CommonMark](http://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) - The formal spec for GitHub's markdown, based on CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 - [Stack Overflow Markdown Documentation](https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
