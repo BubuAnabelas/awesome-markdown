@@ -18,6 +18,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24"> means that **runs on _Windows_**.<br />
 
 ## Contents
+
 - [CMS / Blogs](#cms--blogs)
 - [Libraries](#libraries)
 	- [C](#c)
@@ -37,7 +38,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 	- [Documentation](#documentation)
 	- [Tutorials](#tutorials)
 
--
+---
 
 ## CMS / Blogs
 > CMS or Blogs which support Markdown by default.
@@ -163,7 +164,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: _Where to look when you don't remember the syntax!_
 
--
+---
 
 _[Icon pack by Icons8](https://icons8.com)_
 
