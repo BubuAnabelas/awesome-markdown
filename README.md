@@ -97,6 +97,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 > Convert Markdown to other formats and vice versa.
 
+- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [to-markdown](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
@@ -114,6 +115,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24">
 - [PileMd](https://pilemd.com/) - Markdown Note App. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [Typora](https://typora.io/) - A minimal markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 
 ### Linters
 
@@ -131,6 +133,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Markdown Editor](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) - A Chrome extension that allows you to open and preview MD files directly on the browser. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 
