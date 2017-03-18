@@ -115,6 +115,9 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24">
 - [PileMd](https://pilemd.com/) - Markdown Note App. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [Typora](https://typora.io/) - A minimal markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [StackEdit](https://stackedit.io/) - In-browser markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
+- [Remarkable](https://remarkableapp.github.io/) - The best markdown editor for linux and windows. <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [SimpleMDE](https://simplemde.com/) - SimpleMDE is a simple, embeddable, and beautiful JS markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 
 ### Linters
 
