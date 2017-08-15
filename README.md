@@ -181,6 +181,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Interactive Markdown Tutorial](http://www.markdowntutorial.com/)
 - [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: _Where to look when you don't remember the syntax!_
+- [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown. 
 
 ---
 
