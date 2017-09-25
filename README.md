@@ -127,6 +127,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [MDL](https://github.com/mivok/markdownlint) - Tool to check Markdown files and flag style issues.
+- [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 
 ### Miscellaneous
 
@@ -139,6 +140,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [remark](http://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 
 ### Presentations
@@ -178,10 +180,11 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 > Useful links and tutorials.
 
+- [how-to-markdown](https://github.com/workshopper/how-to-markdown) - This workshopper will teach you how to use Markdown.
 - [Interactive Markdown Tutorial](http://www.markdowntutorial.com/)
 - [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: _Where to look when you don't remember the syntax!_
-- [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown. 
+- [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown.
 
 ---
 
