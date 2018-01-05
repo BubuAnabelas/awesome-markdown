@@ -1,9 +1,11 @@
-# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Markdown
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" align="right" width="208">
 
 > A curated list of delightful Markdown stuff.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/terriann/awesome-markdown.svg?branch=travis)](https://travis-ci.org/terriann/awesome-markdown)
 
 Markdown is a markup language created by John Gruber in collaboration with Aaron Swartz. It was designed to be easily converted to HTML and has been extended into different types of implementations.
 
