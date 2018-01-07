@@ -1000,6 +1000,15 @@ remark-lint-code-block-style@^1.0.1:
     unist-util-position "^3.0.0"
     unist-util-visit "^1.1.1"
 
+remark-lint-definition-case@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-definition-case/-/remark-lint-definition-case-1.0.1.tgz#85e169a015936ffcea7825976290359a49de33b0"
+  dependencies:
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+
 remark-lint-emphasis-marker@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/remark-lint-emphasis-marker/-/remark-lint-emphasis-marker-1.0.1.tgz#50e769c118e22675baf7f6838fdda7b7e986b3cb"
@@ -1012,6 +1021,15 @@ remark-lint-emphasis-marker@^1.0.1:
 remark-lint-fenced-code-marker@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/remark-lint-fenced-code-marker/-/remark-lint-fenced-code-marker-1.0.1.tgz#e1d91cb3685194f1ba8d5b952f3fad16878ea7df"
+  dependencies:
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+
+remark-lint-final-definition@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-final-definition/-/remark-lint-final-definition-1.0.1.tgz#6027a6a6f41a927f8af4f1b30c3a75e333f1086a"
   dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
@@ -1040,6 +1058,16 @@ remark-lint-linebreak-style@^1.0.1:
     unified-lint-rule "^1.0.0"
     vfile-location "^2.0.1"
 
+remark-lint-link-title-style@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-link-title-style/-/remark-lint-link-title-style-1.0.1.tgz#c3170bbd481a693c689feb574ab1e024278038c6"
+  dependencies:
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+    vfile-location "^2.0.1"
+
 remark-lint-no-blockquote-without-marker@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/remark-lint-no-blockquote-without-marker/-/remark-lint-no-blockquote-without-marker-2.0.1.tgz#5b8495f5a8d4174cf91fc7248f94475553ab4d87"
@@ -1055,6 +1083,15 @@ remark-lint-no-consecutive-blank-lines@^1.0.1:
   resolved "https://registry.yarnpkg.com/remark-lint-no-consecutive-blank-lines/-/remark-lint-no-consecutive-blank-lines-1.0.1.tgz#a545481d67731983c8986617d8d2b0ad92c97db3"
   dependencies:
     plur "^2.1.2"
+    unified-lint-rule "^1.0.0"
+    unist-util-generated "^1.1.0"
+    unist-util-position "^3.0.0"
+    unist-util-visit "^1.1.1"
+
+remark-lint-no-duplicate-definitions@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/remark-lint-no-duplicate-definitions/-/remark-lint-no-duplicate-definitions-1.0.1.tgz#1f08139ef5dbd51d9e7445fbde4597ea292c2270"
+  dependencies:
     unified-lint-rule "^1.0.0"
     unist-util-generated "^1.1.0"
     unist-util-position "^3.0.0"

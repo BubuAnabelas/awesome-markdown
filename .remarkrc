@@ -26,6 +26,12 @@
 		"lint-ordered-list-marker-value",
 		["lint-rule-style", "---"],
 		["lint-unordered-list-marker-style", "-"],
-		"remark-lint-alphabetize-lists"
+		"lint-alphabetize-lists",
+		"lint-definition-case",
+		"lint-final-definition",
+		["lint-link-title-style", "'"],
+		"lint-no-duplicate-definitions",
+		"lint-no-undefined-references",
+		"lint-no-unused-definitions"
 	]
 }

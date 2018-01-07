@@ -13,12 +13,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 <!--lint enable no-emphasis-as-heading-->
 
 :gem: means **really _awesome/useful_**.<br />
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> means that **it's _webapp/webservice_**.<br />
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png" title="Android OS" width="24"> means that **runs on _Android_**.<br />
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png" title="iOS Logo" width="24"> means that **runs on _iOS_**.<br />
-<img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> means that **runs on _macOS_**.<br />
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> means that **runs on _Linux_**.<br />
-<img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24"> means that **runs on _Windows_**.<br />
+![Globe][globe] means that **it's _webapp/webservice_**.<br />
+![Android OS][android-os] means that **runs on _Android_**.<br />
+![iOS Logo][ios-logo] means that **runs on _iOS_**.<br />
+![Apple][apple] means that **runs on _macOS_**.<br />
+![Linux][linux] means that **runs on _Linux_**.<br />
+![Windows 8][windows8] means that **runs on _Windows_**.<br />
 
 <!--lint disable no-paragraph-content-indent-->
 
@@ -112,27 +112,27 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 > Convert Markdown to other formats and vice versa.
 
-- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
-- [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [Pandoc](http://pandoc.org/) - Universal document converter. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
+- [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [to-markdown](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
-- [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [yamp](https://github.com/angrykoala/yamp) - Wasy-to-use cli toolbox for markdown-related task. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [yamp](https://github.com/angrykoala/yamp) - Wasy-to-use cli toolbox for markdown-related task. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 
 ### Editors
 
 > Edit and save your Markdown documents.
 
-- [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [Caret](https://caret.io/) - Markdown Editor for Mac and PC. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png" title="Android OS" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png" title="iOS Logo" width="24"> <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24">
-- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
+- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 
-- [PileMd](https://pilemd.com/) - Markdown Note App. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [StackEdit](https://stackedit.io/) - In-browser markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [Typora](https://typora.io/) - A minimal Markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
+- [Typora](https://typora.io/) - A minimal Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 
 ### Linters
 
@@ -146,23 +146,23 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
 
-- [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
+- [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. ![Globe][globe]
+- [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
-- [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [Markable.in](https://markable.in/) - Remarkable Markdown Editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
+- [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
+- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
+- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](http://remark.js.org/) - Markdown processor powered by plugins
-- [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
+- [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 
 ### Presentations
 
 > Create and edit your slides presentations with Markdown.
 
-- [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24">
-- [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
+- [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Apple][apple] ![Linux][linux]
+- [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
 
 ## Services
 
@@ -170,8 +170,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [GitBook](https://www.gitbook.com/) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
-- [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem: _Like Pastebin but with Markdown_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
+- [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
+- [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem: _Like Pastebin but with Markdown_ ![Globe][globe]
 - [Stacktile](https://stacktile.io/) - Turn a Markdown document into an interactive tutorial.
 
 ## Resources
@@ -208,3 +208,12 @@ _[Icon pack by Icons8](https://icons8.com)_
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabelas) has waived all copyright and related or neighboring rights to this work.
+
+<!--Definitions-->
+
+[globe]: https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png 'Globe'
+[android-os]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png 'Android OS'
+[ios-logo]: https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png 'iOS Logo'
+[apple]: https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png 'Apple'
+[linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
+[windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'
