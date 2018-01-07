@@ -1,0 +1,31 @@
+{
+	"plugins": [
+		["remark-message-control", {"name": "lint"}],
+		"lint",
+		["lint-emphasis-marker", "_"],
+		["lint-code-block-style", "indented"],
+		["lint-fenced-code-marker", "`"],
+		"lint-final-newline",
+		["lint-heading-style", "atx"],
+		["lint-linebreak-style", "unix"],
+		["lint-strong-marker", "*"],
+		"lint-no-blockquote-without-marker",
+		"lint-no-consecutive-blank-lines",
+		"lint-no-duplicate-headings-in-section",
+		"lint-no-emphasis-as-heading",
+		"lint-no-empty-url",
+		"lint-no-heading-content-indent",
+		"lint-no-heading-like-paragraph",
+		"lint-no-heading-punctuation",
+		"lint-no-inline-padding",
+		["lint-no-missing-blank-lines", {"exceptTightLists": true}],
+		"lint-no-multiple-toplevel-headings",
+		"lint-no-undefined-references",
+		"lint-no-unused-definitions",
+		["lint-ordered-list-marker-style", "."],
+		"lint-ordered-list-marker-value",
+		["lint-rule-style", "---"],
+		["lint-unordered-list-marker-style", "-"],
+		"remark-lint-alphabetize-lists"
+	]
+}
