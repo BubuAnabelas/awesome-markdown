@@ -1,13 +1,16 @@
 language: node_js
 node_js:
   - "node"
+env:
+  - AWESOME_BOT='awesome_bot README.md --allow-dupe --allow-redirect' STRICT=true
+  - AWESOME_BOT='awesome_bot README.md --allow-dupe' STRICT=true
 install:
   - yarn
   - gem install awesome_bot
   - gem install danger
 script:
   - remark -f --no-stdout README.md
-  - awesome_bot README.md --allow-dupe --allow-redirect
+  - $AWESOME_BOT
   - danger
 notifications:
   email: false
