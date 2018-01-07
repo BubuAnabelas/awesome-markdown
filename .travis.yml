@@ -1,12 +1,13 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
+language: node_js
+node_js:
+  - "node"
+install:
+  - yarn
   - gem install awesome_bot
   - gem install danger
 script:
-  - awesome_bot README.md --allow-dupe --allow-redirect
   - remark -f --no-stdout README.md
+  - awesome_bot README.md --allow-dupe --allow-redirect
   - danger
 notifications:
   email: false
