@@ -88,7 +88,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Perl
 
-- [Markdown.pl](http://daringfireball.net/projects/downloads/Markdown_1.0.1.zip) :gem: _John Gruber's original Markdown library._
+- [Markdown.pl](https://daringfireball.net/projects/downloads/Markdown_1.0.1.zip) :gem: _John Gruber's original Markdown library._
 
 ### PHP
 
@@ -99,7 +99,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
 - [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
-- [Python-Markdown](https://github.com/waylan/Python-Markdown) - Python implementation of John Gruber's Markdown.
+- [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
 
 ### Ruby
 
@@ -117,8 +117,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [to-markdown](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Wasy-to-use cli toolbox for markdown-related task. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 
 ### Editors
@@ -139,8 +139,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 > Flag and standarize your Markdown documents.
 
+- [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
-- [MDL](https://github.com/mivok/markdownlint) - Tool to check Markdown files and flag style issues.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 
 ### Miscellaneous
@@ -148,7 +148,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
 
 - [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. ![Globe][globe]
-- [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
+- [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
@@ -185,7 +185,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
-- [Stack Overflow Markdown Documentation](https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
+- [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Highest voted Markdown questions on Stack Overflow.
 - [The text/markdown Media Type (RFC7763)](https://tools.ietf.org/html/rfc7763) - This document registers the `text/markdown` media type for use with Markdown, a family of plain-text formatting syntaxes.
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Markdown)
