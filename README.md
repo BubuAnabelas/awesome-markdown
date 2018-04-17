@@ -59,6 +59,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Ghost](https://blog.ghost.org/markdown/) - Publishing platform for professional bloggers.
 - [Grav](https://getgrav.org/) - Modern Flat-File CMS.
 - [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
+- [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 
