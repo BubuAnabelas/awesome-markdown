@@ -88,7 +88,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Showdown](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
 - [Snarkdown](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
-
 ### Perl
 
 - [Markdown.pl](https://daringfireball.net/projects/downloads/Markdown_1.0.1.zip) :gem: _John Gruber's original Markdown library._
