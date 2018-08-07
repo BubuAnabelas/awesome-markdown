@@ -40,7 +40,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 	- [Editors](#editors)
 	- [Linters](#linters)
 	- [Miscellaneous](#miscellaneous)
-    - [Presentations](#presentations)
+	- [Presentations](#presentations)
 - [Services](#services)
 - [Resources](#resources)
 	- [Documentation](#documentation)
@@ -115,6 +115,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 > Convert Markdown to other formats and vice versa.
 
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
@@ -172,6 +173,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 > Different services which take advantage of Markdown.
 
 - [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+- [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe][globe]
 - [GitBook](https://www.gitbook.com/) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
 - [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem: _Like Pastebin but with Markdown_ ![Globe][globe]
