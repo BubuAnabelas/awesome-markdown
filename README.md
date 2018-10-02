@@ -131,6 +131,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
+- [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
