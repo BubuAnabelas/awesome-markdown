@@ -133,6 +133,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
