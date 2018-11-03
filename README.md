@@ -58,8 +58,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Ghost](https://blog.ghost.org/markdown/) - Publishing platform for professional bloggers.
 - [Grav](https://getgrav.org/) - Modern Flat-File CMS.
-- [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
+- [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 
@@ -131,9 +131,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
+- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
