@@ -145,6 +145,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 
 ### Miscellaneous
