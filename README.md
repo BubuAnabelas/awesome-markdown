@@ -8,7 +8,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 <!--lint disable no-emphasis-as-heading-->
 
-_Please read the [contribution guidelines](contributing.md) before contributing._
+_Please read the [contribution guidelines](.github/contributing.md) before contributing._
 
 <!--lint enable no-emphasis-as-heading-->
 
@@ -58,8 +58,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Ghost](https://blog.ghost.org/markdown/) - Publishing platform for professional bloggers.
 - [Grav](https://getgrav.org/) - Modern Flat-File CMS.
-- [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
+- [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 
@@ -145,6 +145,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 
 ### Miscellaneous
