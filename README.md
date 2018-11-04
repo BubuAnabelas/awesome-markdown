@@ -118,7 +118,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
-- [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
+- [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
@@ -130,10 +130,10 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
-- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
@@ -178,10 +178,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe][globe]
-- [GitBook](https://www.gitbook.com/) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
+- [GitBook](https://www.gitbook.com/?t=1) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
-- [NoteHub](https://notehub.org/) - Free and Hassle-free Pastebin for Markdown Notes. :gem: _Like Pastebin but with Markdown_ ![Globe][globe]
-- [Stacktile](https://stacktile.io/) - Turn a Markdown document into an interactive tutorial.
 
 ## Resources
 
@@ -189,7 +187,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Documentation and useful information about Markdown.
 
-- [CommonMark](http://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
+- [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
 - [Pandoc’s Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](http://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
