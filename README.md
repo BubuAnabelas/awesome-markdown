@@ -8,7 +8,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 <!--lint disable no-emphasis-as-heading-->
 
-_Please read the [contribution guidelines](contributing.md) before contributing._
+_Please read the [contribution guidelines](.github/contributing.md) before contributing._
 
 <!--lint enable no-emphasis-as-heading-->
 
