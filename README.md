@@ -162,6 +162,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 
 ### Presentations
 
