@@ -62,6 +62,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
+- [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 
 ## Libraries
 
