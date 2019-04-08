@@ -63,6 +63,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
+- [docsify](https://github.com/docsifyjs/docsify) - A magical documentation site generator.
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. 
 
 ## Libraries
 
@@ -139,6 +141,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
 - [Typora](https://typora.io/) - A minimal Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [VNote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better.
 
 ### Linters
 
@@ -148,6 +151,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
+- [lint-md](https://github.com/hustcc/lint-md) - Cli tool to lint your markdown file for Chinese.
 
 ### Miscellaneous
 
