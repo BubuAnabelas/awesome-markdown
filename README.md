@@ -141,7 +141,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
 - [Typora](https://typora.io/) - A minimal Markdown editor. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [VNote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better.
+- [VNote](https://github.com/tamlok/vnote) - A note-taking application that knows programmers and Markdown better. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 
 ### Linters
 
