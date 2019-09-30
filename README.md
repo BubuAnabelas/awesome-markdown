@@ -148,6 +148,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
+- [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
 
 ### Miscellaneous
 
