@@ -120,7 +120,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
-- [Pandoc](http://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Pandoc](https://pandoc.org/) - Universal document converter. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
@@ -129,7 +129,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Edit and save your Markdown documents.
 
-- [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Apple][apple]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
@@ -160,9 +160,9 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
-- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
+- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
-- [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
+- [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 
 ### Presentations
@@ -178,7 +178,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Different services which take advantage of Markdown.
 
-- [Daux.io](http://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
+- [Daux.io](https://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe][globe]
 - [GitBook](https://www.gitbook.com/?t=1) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
@@ -192,7 +192,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
-- [Pandoc’s Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](http://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
+- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 - [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Highest voted Markdown questions on Stack Overflow.
