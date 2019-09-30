@@ -18,7 +18,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 ![iOS Logo][ios-logo] means that **runs on _iOS_**.<br />
 ![Mac OS X][macosx] means that **runs on _macOS_**.<br />
 ![Linux][linux] means that **runs on _Linux_**.<br />
-![Windows 8][windows8] means that **runs on _Windows_**.<br />
+![Windows][windows] means that **runs on _Windows_**.<br />
 
 <!--lint disable no-paragraph-content-indent-->
 
@@ -115,30 +115,30 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Convert Markdown to other formats and vice versa.
 
-- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
-- [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
-- [Pandoc](http://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
-- [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [Pandoc](http://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
-- [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ### Editors
 
 > Edit and save your Markdown documents.
 
-- [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
-- [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
-- [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
-- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
-- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
-- [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
-- [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ### Linters
 
@@ -157,9 +157,9 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
-- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
-- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](http://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
@@ -170,7 +170,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 > Create and edit your slides presentations with Markdown.
 
 - [gitpitch](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe][globe]
-- [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ ![Mac OS X][macosx] ![Linux][linux] ![Windows 8][windows8]
+- [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Mac OS X][macosx] ![Linux][linux]
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
 
@@ -226,4 +226,4 @@ To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabel
 [ios-logo]: https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png 'iOS Logo'
 [macosx]: https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png 'Mac OS X'
 [linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
-[windows8]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows8'
+[windows]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows'
