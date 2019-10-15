@@ -170,7 +170,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
-- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Apple][apple] ![Linux][linux] ![Windows 8][windows8]
+- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
