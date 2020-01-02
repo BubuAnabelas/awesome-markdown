@@ -171,12 +171,11 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
-- [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
-- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
+
 
 ### Presentations
 
