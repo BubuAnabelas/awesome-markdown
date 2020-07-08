@@ -186,6 +186,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Marp](https://marp.app/) - Markdown presentation ecosystem. :gem: _CLI, Web, IDE plugin and more to convert Markdown into various formats_ ![Mac OS][macosx] ![Linux][linux] ![Windows][windows]
 - [mdp](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ ![Mac OS X][macosx] ![Linux][linux]
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. ![Globe][globe]
+- [reveal.js](https://revealjs.com) - Open source HTML presentation framework with Markdown support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ## Services
 
