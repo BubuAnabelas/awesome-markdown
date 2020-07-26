@@ -103,6 +103,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 ### Python
 
+- [markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [markdown2](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
 - [Mistune](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
 - [Python-Markdown](https://github.com/Python-Markdown/markdown) - Python implementation of John Gruber's Markdown.
