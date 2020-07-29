@@ -165,7 +165,6 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
 
-- [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. ![Globe][globe]
 - [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
