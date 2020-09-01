@@ -64,6 +64,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Hexo](https://hexo.io/) - A fast, simple & powerful blog framework
 - [Hugo](https://gohugo.io/) - Fast & Modern Static Website Engine.
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
+- [Pelican](https://blog.getpelican.com/) - Static site generator that requires no database or server-side logic.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 
