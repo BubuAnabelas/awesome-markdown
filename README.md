@@ -74,6 +74,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 ### C
 
+- [cmark](https://github.com/commonmark/cmark) - CommonMark parsing and rendering library and program in C.
 - [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
 - [peg-markdown](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
 - [Sundown](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
