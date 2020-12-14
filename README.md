@@ -100,6 +100,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 ### PHP
 
+- [commonmark](https://github.com/thephpleague/commonmark) - Highly-extensible PHP Markdown parser which fully supports the CommonMark and GFM specs.
 - [parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
 - [php-markdown](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 
