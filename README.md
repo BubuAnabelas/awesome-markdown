@@ -180,6 +180,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
+- [termd](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 
 ### Presentations
