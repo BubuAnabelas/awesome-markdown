@@ -154,6 +154,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Visual Studio Code](https://code.visualstudio.com/) - An open source code editor with built-in markdown preview and many markdown extensions. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
+- [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
 ### Linters
 
