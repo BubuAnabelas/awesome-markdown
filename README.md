@@ -67,6 +67,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Pelican](https://blog.getpelican.com/) - Static site generator that requires no database or server-side logic.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
+- [Laravel CommonMark Blog](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
 
 ## Libraries
 
