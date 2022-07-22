@@ -134,6 +134,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
+- [json2md](https://github.com/IonicaBizau/json2md) - A JSON to Markdown converter.
+- [ts-markdown](https://github.com/kgar/ts-markdown) - An extensible TypeScript markdown generator that takes JSON and creates a markdown document.
 
 ### Editors
 
