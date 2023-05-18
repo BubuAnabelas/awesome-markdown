@@ -246,9 +246,9 @@ To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabel
 
 <!--Definitions-->
 
-[globe]: https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png 'Globe'
-[android-os]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png 'Android OS'
-[ios-logo]: https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png 'iOS Logo'
-[macosx]: https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png 'Mac OS X'
-[linux]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png 'Linux'
-[windows]: https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png 'Windows'
+[globe]: https://img.icons8.com/color/24/globe.png 'Globe'
+[android-os]: https://img.icons8.com/color/24/android-os.png 'Android OS'
+[ios-logo]: https://img.icons8.com/color/24/ios-logo.png 'iOS Logo'
+[macosx]: https://img.icons8.com/color/24/mac-logo.png 'Mac OS X'
+[linux]: https://img.icons8.com/color/24//linux--v1.png 'Linux'
+[windows]: https://img.icons8.com/color/24/windows-11.png 'Windows'
