@@ -131,6 +131,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [ts-markdown](https://github.com/kgar/ts-markdown) - An extensible TypeScript markdown generator that takes JSON and creates a markdown document.
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
