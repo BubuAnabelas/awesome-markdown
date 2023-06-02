@@ -148,7 +148,6 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
-- [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
 - [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
@@ -159,6 +158,13 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe][globe]
+
+### Editor Components
+
+> Editor components for web apps to edit and save Markdown documents
+
+- [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown Side-by-side Editor ![Globe][globe]
+- [Wysimark Editor](https://wysimark.com/) - WYSIWYG Markdown editor for React, Vue and JavaScript. CommonMark and GFM. With image uploads, attachments, and image resizing. MIT licensed. ![Globe][globe]
 
 ### Linters
 
