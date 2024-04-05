@@ -166,6 +166,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [mdsf](https://github.com/hougesen/mdsf) - Format markdown code blocks using your favorite code formatters.
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 - [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
