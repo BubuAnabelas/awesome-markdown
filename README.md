@@ -68,6 +68,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 - [Laravel CommonMark Blog](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
+- [markdown-pages.js](https://github.com/dandalpiaz/markdown-pages.js/) - Client-side rendering of a Markdown website
 
 ## Libraries
 
