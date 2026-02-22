@@ -146,6 +146,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Markvim](https://markvim.xyz) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links. ![Globe][globe]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
