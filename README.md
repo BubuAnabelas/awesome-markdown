@@ -140,13 +140,13 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 > Edit and save your Markdown documents.
 
 - [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-- [Markvim](https://markvim.xyz) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links. ![Globe][globe]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
 - [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe][globe]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Markvim](https://markvim.xyz) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links. ![Globe][globe]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
