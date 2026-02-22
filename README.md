@@ -140,6 +140,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 > Edit and save your Markdown documents.
 
 - [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Markvim](https://markvim.xyz) - A minimalist Markdown editor with built-in Vim keybindings, live preview, and shareable links. ![Globe][globe]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
 - [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe][globe]
