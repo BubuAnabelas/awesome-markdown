@@ -124,6 +124,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Convert Markdown to other formats and vice versa.
 
+- [CopyMD](https://github.com/zcag/copymd) - Embeddable widget that adds a "Copy as Markdown" button to any website. ![Globe][globe]
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
