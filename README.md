@@ -160,6 +160,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe][globe]
 
+- [MDLook](https://github.com/djosci/MDLook) - Portable, fully offline Markdown editor for Windows. No Electron, uses WebView2. ![Windows][windows]
+
 ### Linters
 
 > Flag and standarize your Markdown documents.
