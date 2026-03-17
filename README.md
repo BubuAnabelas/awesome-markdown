@@ -139,6 +139,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Edit and save your Markdown documents.
 
+- [MDLook](https://github.com/djosci/MDLook) - Portable, fully offline Markdown editor for Windows. No Electron, uses WebView2. ![Windows][windows]
 - [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
@@ -159,8 +160,6 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe][globe]
-
-- [MDLook](https://github.com/djosci/MDLook) - Portable, fully offline Markdown editor for Windows. No Electron, uses WebView2. ![Windows][windows]
 
 ### Linters
 
