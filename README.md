@@ -178,6 +178,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram rendering, QuickLook extension, and syntax highlighting. ![Mac OS X][macosx]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
@@ -217,7 +218,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
-- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
+- [Pandoc's Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 - [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Highest voted Markdown questions on Stack Overflow.
