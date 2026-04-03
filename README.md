@@ -177,6 +177,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
+- [IWE](https://github.com/iwe-org/iwe) - Markdown knowledge graph tool with LSP server and CLI for editor integration and AI agent access. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
