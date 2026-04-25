@@ -183,6 +183,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [NRG](https://github.com/nanolaba/readme-generator) - Multi-language README generator that builds Markdown files from a single `.src.md` template via imports, widgets, and a built-in TOC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 - [termd](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
