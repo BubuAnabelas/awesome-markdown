@@ -88,6 +88,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 ### JavaScript
 
+- [LiteMarkup](https://github.com/tuures/LiteMarkup) - Parser with a typed, AST-first TypeScript API. Under 3 KB gzipped, zero dependencies.
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
 - [markdown-js](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
 - [marked](https://github.com/markedjs/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
