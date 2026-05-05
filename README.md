@@ -175,6 +175,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
 
 - [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
+- [DocsReader](https://github.com/anbturki/docsreader) - Reads any folder of Markdown files. Tabs, KaTeX, Mermaid, syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
