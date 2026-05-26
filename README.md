@@ -164,6 +164,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 > Flag and standarize your Markdown documents.
 
+- [gomarklint](https://github.com/shinagawa-web/gomarklint) - Fast Markdown linter with link validation, single binary, no runtime required.
 - [Markdown Lint Tool](https://github.com/markdownlint/markdownlint) - Tool to check Markdown files and flag style issues.
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
