@@ -141,6 +141,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [dochost](https://dochost.io/) - Paste Markdown or HTML and instantly get a hosted, shareable link, with live preview and no signup. ![Globe][globe]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
 - [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe][globe]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
