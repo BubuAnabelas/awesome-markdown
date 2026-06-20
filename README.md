@@ -1,4 +1,4 @@
-# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" align="right" width="208">
 
@@ -135,6 +135,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
 
+- [Markdown Tools Online](https://markdowntoolsonline.com/) - Free online Markdown converter toolkit with 16 browser-based tools. Convert between Markdown, PDF, HTML, DOCX, CSV, Excel, and images. ![Globe][globe]
+
 ### Editors
 
 > Edit and save your Markdown documents.
@@ -175,7 +177,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 > Tools which let you edit, convert, export, _et al._ your Markdown documents.
 
 - [Dillinger](https://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. ![Globe][globe]
-- [GitDown](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
+- [GitDown](https://github.com/gajus/gitdown) â€“ GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. ![Globe][globe]
 - [Laverna](https://laverna.cc/) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. :gem: _Markdown notes with encryption!_ ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. ![Globe][globe]
@@ -208,6 +210,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [GitBook](https://www.gitbook.com/?t=1) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
 
+- [Markdown Tools Online](https://markdowntoolsonline.com/) - Free privacy-first document converter. Convert Markdown to PDF, HTML, DOCX, and more — all in your browser with no signup. ![Globe][globe]
+
 ## Resources
 
 ### Documentation
@@ -217,7 +221,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [CommonMark](https://commonmark.org/) - Strongly defined, highly compatible specification of Markdown.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) - The formal spec for GitHub's Markdown, based on CommonMark.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) :gem: _The place to start with Markdown!_
-- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
+- [Pandocâ€™s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/) has its own, powerful markdown implementation. It consists of several addional extensions.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) - ScholarlyMarkdown is a syntax/standard/best-practice of scholarly and academic communication that is web-first, semantic XML-second, and LaTeX/Word a close third.
 - [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) - Well organized Markdown documentation.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) - Highest voted Markdown questions on Stack Overflow.
@@ -242,7 +246,7 @@ _[Icon pack by Icons8](https://icons8.com)_
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabelas) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [JoaquÃ­n Serna](https://github.com/BubuAnabelas) has waived all copyright and related or neighboring rights to this work.
 
 <!--Definitions-->
 
