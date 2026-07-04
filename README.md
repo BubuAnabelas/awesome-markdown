@@ -182,6 +182,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [markcat](https://github.com/BubuAnabelas/markcat) - Markdown files terminal viewer. :gem: _`cat` with Markdown highlight._ ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
+- [markupmarkdown](https://github.com/jonradoff/markupmarkdown) - "Google Docs for Markdown": collaborative editing and review for Markdown files. Anchored comment threads, suggested changes with one-click apply, review states, document checks, and GitHub round-trip (open any repo's `.md`, push edits back as a PR). Includes an MCP server so AI agents review alongside humans. ![Globe][globe]
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
