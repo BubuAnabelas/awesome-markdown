@@ -205,6 +205,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 
 - [Daux.io](https://daux.io) - Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 - [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe][globe]
+- [Draftmark](https://draftmark.app) - Share markdown via a link and collect comments, reactions, and reviews from humans or AI agents. ![Globe][globe]
 - [GitBook](https://www.gitbook.com/?t=1) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
 
