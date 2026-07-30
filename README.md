@@ -169,6 +169,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter.
 - [textlint](https://textlint.github.io/) - Pluggable linting tool for text and markdown.
 - [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+- [darnlink](https://github.com/txemi/darnlink) - Repairs Markdown links whose target moved (anchored by a UUID) and robustifies plain ones; report-only quality gate for pre-commit/CI.
 
 ### Miscellaneous
 
