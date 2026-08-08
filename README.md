@@ -147,7 +147,8 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
-- [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
+- [StackEdit](https://stackedit.io/) - In-browser markdown editor.
+- [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based Markdown editor for preparing content to paste into Confluence. ![Globe][globe] ![Globe][globe]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
 - [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
