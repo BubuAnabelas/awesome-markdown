@@ -125,6 +125,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 > Convert Markdown to other formats and vice versa.
 
 - [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [CardMark](https://github.com/FrankFu916/cardmark) - Turn Markdown into beautiful share-ready card images (PNG/SVG) for social media. CLI, JavaScript library and web app. ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Dimer Markdown](https://github.com/dimerapp/markdown) - converts Markdown to HTML or to JSON ![Globe][globe] ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
