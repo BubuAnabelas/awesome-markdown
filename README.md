@@ -66,6 +66,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Jekyll](https://jekyllrb.com/) - Transform your plain text into static websites and blogs.
 - [Pelican](https://blog.getpelican.com/) - Static site generator that requires no database or server-side logic.
 - [Svbtle](https://svbtle.com/) - Blogging platform designed to help you think.
+- [VertiWiki](https://verti.wiki) - 100% static, single-file, zero-backend Markdown wiki and documentation engine.
 - [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator.
 - [Laravel CommonMark Blog](https://github.com/spekulatius/laravel-commonmark-blog) - Static-generator to use with Laravel. Utilizes CommonMark and FrontMatter and publishes directly into the `public`-folder.
 
