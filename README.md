@@ -159,6 +159,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe][globe]
+- [MDDock](https://mddock.com) - Local-first Markdown editor and AI knowledge base; opens any folder of .md files directly, indexes notes on-device, and ships a CLI + MCP server so AI agents can read your notes. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows] ![iOS Logo][ios-logo]
 
 ### Linters
 
