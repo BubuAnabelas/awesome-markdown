@@ -130,6 +130,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [PostForge](https://github.com/la2278647-arch/postforge) - Open-source Markdown typesetting engine: one command turns Markdown into publisher-ready rich text for 16 Chinese/international platforms (WeChat, Zhihu, Juejin, CSDN, Xiaohongshu, Medium, DEV.to, Hashnode...) with fully inline styles. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
