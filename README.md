@@ -184,6 +184,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
+- [Sanemark](https://github.com/nkitsaini/sanemark) - Markdown language server for note-taking with file-link completion, daily notes, and table formatting.
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 - [termd](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 
