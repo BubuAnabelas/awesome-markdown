@@ -6,7 +6,7 @@ Ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format: `[PROJECT](LINK) - DESCRIPTION.`
 - Links must use `https` when possible.
-- Additions should mantain the alphabetical order in the category.
+- Additions should maintain the alphabetical order in the category.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
