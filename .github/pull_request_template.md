@@ -9,7 +9,7 @@
 ## Description
 <!--- Describe your changes in detail -->
  
-## Why it should be included to `awesome-markdown` (optional)
+## Why it should be included in `awesome-markdown` (optional)
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
