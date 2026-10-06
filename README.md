@@ -207,6 +207,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Dimer](https://dimerapp.com/) - Dimer generates a clean and beautiful documentation website from Markdown. ![Globe][globe]
 - [GitBook](https://www.gitbook.com/?t=1) - GitBook is a modern publishing toolchain. Making both writing and collaboration easy.
 - [GitPrint](https://gitprint.com/) - Easily print GitHub Markdown. ![Globe][globe]
+- [Metranpage](https://app.metranpage.com) - Automated publication and design engine turning Markdown into books, expert guides, print-ready PDFs, covers, and marketplace cards. ![Globe][globe]
 
 ## Resources
 
