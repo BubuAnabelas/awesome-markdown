@@ -131,6 +131,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown to PDF](https://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. ![Globe][globe]
 - [Pandoc](https://pandoc.org/) - Universal document converter. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Torsimany](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [TransformPipe](https://transformpipe.com) - Convert Word, Excel, HTML and Notion or Obsidian exports to Markdown, and Markdown to HTML or Word, in the browser. ![Globe][globe]
 - [turndown](https://github.com/domchristie/turndown) - HTML to Markdown converter written in JavaScript.
 - [yamp](https://github.com/angrykoala/yamp) - Easy-to-use cli toolbox for markdown-related task. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/) - Website to paste content and get a markdown version. Works on any modern browser with JavaScript.
