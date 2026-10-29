@@ -159,6 +159,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe][globe]
+- [Splat](https://github.com/sventmueller/splat) - Native macOS Markdown editor with a live preview you can edit directly. ![Mac OS X][macosx]
 
 ### Linters
 
