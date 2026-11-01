@@ -145,6 +145,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe][globe]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Marked-text-down](https://github.com/Radi0Glitch/Marked-text-down) - WYSIWYG Markdown editor with formulas, diagrams and charts. ![Linux][linux] ![Windows][windows]
 - [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [PileMd](https://pilemd.com/) - Markdown Note App. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
