@@ -150,6 +150,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - Extensible GFM Markdown WYSIWYG Editor ![Globe][globe]
 - [Typora](https://typora.io/) - A minimal Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [NookNook](https://mrrealorg.github.io/NookNook/) - Cozy 100% offline notes desk for Windows with rich markdown notes, tasks, a kanban board and a meeting recorder. ![Windows][windows]
 - [Notable](https://notable.md/) - The Markdown-based note-taking app that doesn't suck. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Boostnote](https://boostnote.io/) - A markdown editor for developers. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
