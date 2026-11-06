@@ -183,6 +183,7 @@ _Please read the [contribution guidelines](.github/contributing.md) before contr
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files and sync external docs/src code
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. ![Globe][globe]
 - [mdformat](https://github.com/executablebooks/mdformat) - CommonMark compliant Markdown formatter ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [OneMira AI](https://onemira.com/products/c1) - Standalone AI voice recorder (C1) and local context system that turns spoken meetings into speaker-attributed Markdown notes and a linked Markdown Wiki with [MCP integration](https://github.com/onemira-space/onemira-mcp). ![Mac OS X][macosx] ![Windows][windows]
 - [remark](https://remark.js.org/) - Markdown processor powered by plugins
 - [Socrates](https://socrates.io/) - Serveless realtime Markdown editor and viewer, etherpad-like. ![Globe][globe]
 - [termd](https://github.com/dephraiim/termd) - Markdown renderer for the terminal with syntax highlighting. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
